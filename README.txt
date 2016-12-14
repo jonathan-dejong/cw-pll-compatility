@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Currency switcher Polylang compatibility ===
 Contributors: jonathandejong
 Donate link: http://github.com/jonathan-dejong
 Tags: polylang, WooCommerce, Woocommerce currency switcher, language currency
